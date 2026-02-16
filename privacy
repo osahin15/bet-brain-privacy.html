@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BetBrain - Privacy Policy / Gizlilik Politikası</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.55; margin: 24px; max-width: 900px; }
+    h1,h2 { line-height: 1.2; }
+    .muted { color: #555; }
+    hr { margin: 28px 0; }
+    ul { padding-left: 18px; }
+    .box { background: #f6f6f6; padding: 14px 16px; border-radius: 10px; }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy (EN) — BetBrain</h1>
+<p class="muted"><b>Effective Date:</b> [DD Month YYYY] <br>
+<b>Publisher:</b> HawksAppStudio <br>
+<b>Support:</b> hawksappstudio@gmail.com</p>
+
+<h2>1) Overview</h2>
+<p>This Privacy Policy explains how we collect, use, and share information when you use the App.</p>
+
+<h2>2) Information We Collect</h2>
+<p>Depending on your usage and enabled features, we may collect:</p>
+<ul>
+  <li><b>Purchase & Subscription Data</b>: subscription status and entitlements processed via RevenueCat.</li>
+  <li><b>Analytics, Performance & Crash Data</b>: app events, device info, app version, crash logs via Firebase.</li>
+  <li><b>Advertising Data</b>: ad impressions/clicks and related measurement via Google AdMob.</li>
+  <li><b>Support Communications</b>: information you provide when contacting support.</li>
+</ul>
+<div class="box">
+  <p><b>Note:</b> We do not intentionally collect sensitive personal data (e.g., health data) and do not knowingly collect data from children.</p>
+</div>
+
+<h2>3) How We Use Information</h2>
+<ul>
+  <li>Operate and improve the App</li>
+  <li>Deliver subscription entitlements and access</li>
+  <li>Display and measure ads (if applicable)</li>
+  <li>Fix bugs, prevent fraud/abuse, and improve performance</li>
+  <li>Respond to support requests</li>
+</ul>
+
+<h2>4) Sharing of Information</h2>
+<p>We may share data with service providers used to run the App, including RevenueCat (subscriptions), Firebase (analytics/crash), and Google AdMob (ads/measurement), and with authorities if required by law.</p>
+
+<h2>5) Data Retention</h2>
+<p>We retain information only as long as needed for the purposes described, then delete or anonymize it unless legal obligations require longer retention.</p>
+
+<h2>6) Your Choices & Rights</h2>
+<p>Depending on your location, you may have rights to access, correct, delete, or restrict processing of your data. You can manage ad personalization through device settings (where available). For requests, contact <b>hawksappstudio@gmail.com</b>.</p>
+
+<h2>7) Security</h2>
+<p>We use reasonable safeguards to protect information. No method of transmission or storage is 100% secure.</p>
+
+<h2>8) International Transfers</h2>
+<p>Your data may be processed in countries other than your own via our service providers. We use safeguards where required by law.</p>
+
+<h2>9) Changes</h2>
+<p>We may update this Policy. We will publish the updated version with a new effective date.</p>
+
+<h2>10) Contact</h2>
+<p>Privacy questions: <b>hawksappstudio@gmail.com</b></p>
+
+<hr />
+
+<h1>Gizlilik Politikası (TR) — BetBrain</h1>
+<p class="muted"><b>Yürürlük Tarihi:</b> [GG Ay YYYY] <br>
+<b>Yayıncı:</b> HawksAppStudio <br>
+<b>Destek:</b> hawksappstudio@gmail.com</p>
+
+<h2>1) Genel Bakış</h2>
+<p>Bu politika, uygulamayı kullanırken hangi verileri topladığımızı, nasıl kullandığımızı ve kimlerle paylaştığımızı açıklar.</p>
+
+<h2>2) Toplayabileceğimiz Veriler</h2>
+<ul>
+  <li><b>Abonelik / Satın Alma Verileri</b>: abonelik durumu ve erişim (entitlement) bilgileri RevenueCat üzerinden işlenebilir.</li>
+  <li><b>Analitik, Performans ve Çökme Verileri</b>: kullanım olayları, cihaz bilgileri, uygulama sürümü, çökme kayıtları Firebase aracılığıyla toplanabilir.</li>
+  <li><b>Reklam Verileri</b>: reklam gösterimi/tıklama ölçümü Google AdMob aracılığıyla işlenebilir.</li>
+  <li><b>Destek İletişimleri</b>: destekle iletişime geçtiğinde paylaştığın bilgiler.</li>
+</ul>
+<div class="box">
+  <p><b>Not:</b> Hassas kişisel verileri bilerek toplamayı hedeflemeyiz ve çocuklardan bilerek veri toplamayız.</p>
+</div>
+
+<h2>3) Verileri Kullanma Amaçlarımız</h2>
+<ul>
+  <li>Uygulamayı çalıştırmak ve geliştirmek</li>
+  <li>Abonelik/erişim haklarını yönetmek</li>
+  <li>Reklam göstermek ve ölçmek (varsa)</li>
+  <li>Hata ayıklama, performans iyileştirme, güvenlik ve suistimali önleme</li>
+  <li>Destek taleplerini yanıtlamak</li>
+</ul>
+
+<h2>4) Veri Paylaşımı</h2>
+<p>Veriler, uygulamayı işletmek için kullanılan hizmet sağlayıcılarla (RevenueCat, Firebase, Google AdMob) ve yasal zorunluluk halinde resmi makamlarla paylaşılabilir.</p>
+
+<h2>5) Saklama Süresi</h2>
+<p>Verileri yalnızca gerekli süre boyunca saklar, sonra siler veya anonimleştiririz (yasal zorunluluklar hariç).</p>
+
+<h2>6) Hakların ve Tercihlerin</h2>
+<p>Bulunduğun ülkeye göre erişim/düzeltme/silme/işlemeyi kısıtlama hakların olabilir. Reklam kişiselleştirme ayarlarını cihaz ayarlarından yönetebilirsin (varsa). Talepler için <b>hawksappstudio@gmail.com</b> adresine yazabilirsin.</p>
+
+<h2>7) Güvenlik</h2>
+<p>Verileri korumak için makul önlemler alırız; ancak %100 güvenlik garanti edilemez.</p>
+
+<h2>8) Yurtdışı Aktarımlar</h2>
+<p>Veriler, hizmet sağlayıcılarımız aracılığıyla farklı ülkelerde işlenebilir. Gerekli hallerde uygun koruma önlemleri uygulanır.</p>
+
+<h2>9) Değişiklikler</h2>
+<p>Politika güncellenebilir. Güncel sürüm yeni yürürlük tarihiyle yayımlanır.</p>
+
+<h2>10) İletişim</h2>
+<p>Gizlilik soruları: <b>hawksappstudio@gmail.com</b></p>
+
+</body>
+</html>
